@@ -1,3 +1,16 @@
+Name : Santhosh Saravanan V
+Company : CODTECH IT SOLUTIONS
+ID : CT08FGT
+Domain : Artificial Intelligence
+Duration : January to Febraury 2025
+
+TASK TWO:MODEL EVALUATION AND COMPARISION
+Evaluating the performance of AI models is crucial for determining
+their effectiveness in solving a particular problem. This task
+involves implementing and comparing different AI models using
+appropriate evaluation metrics..
+
+
 Project Overview
 The purpose of this project is to evaluate and compare the performance of multiple machine learning models using a standard dataset. By implementing different models and analyzing their results using evaluation metrics, this project provides insights into the effectiveness of various algorithms for solving a classification problem.
 
