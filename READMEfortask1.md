@@ -4,6 +4,13 @@ ID :CT08FGT
 Domain : Artificial Intelligence
 Duration : January to Febraury 2025
 
+TASk 1:
+TASK ONE: DATA PROCESSING
+before applying AI algorithms, data often needs to be preprocessed to
+ensure its quality and suitability for analysis. This task involves cleaning,
+transforming, and preparing raw data for AI model training.
+
+
 Project Overview
 The goal of this project is to preprocess and analyze a student performance dataset to make it ready for further machine learning applications. This involves handling raw data through cleaning, transformation, and scaling. The processed dataset serves as a foundation for deriving actionable insights or applying predictive models.
 
